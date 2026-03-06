@@ -1,12 +1,21 @@
-# Java OOP Concepts
+# Java Concepts and OOP Practice
 
-This repository contains my practice implementations of core Object-Oriented Programming (OOP) concepts in Java. It includes simple and clear examples demonstrating important principles such as:
+This repository contains my Java practice programs covering core Java fundamentals and Object-Oriented Programming (OOP) concepts. The code examples are written to understand important Java concepts with clear and simple implementations.
 
-• Inheritance (Single, Multilevel, and Multiple using Interfaces)  
-• Method Overriding  
-• Packages in Java  
-• Access Modifiers  
-
-The programs are written for learning and practicing Java fundamentals with clean and easy-to-understand code examples.
+Topics Covered:
+• Java Basics (Variables, Data Types, Operators)
+• Control Statements (If-Else, Switch)
+• Loops (For, While, Do-While)
+• Arrays and Strings
+• Classes and Objects
+• Encapsulation, Inheritance, Polymorphism
+• Constructors and Access Modifiers
+• Interfaces and Abstract Classes
+• Exception Handling
+• Multithreading
+• Collections Framework
+• Lambda Expressions and Functional Interfaces
+• Stream API
+• Enums and Annotations
 
 Language Used: Java
