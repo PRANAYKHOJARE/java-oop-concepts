@@ -1,4 +1,4 @@
-Welcome to my **Java OOP Concepts Practice** repository!  🖥️
+Welcome to my **Core Java OOP and Advance Java Concepts Practice** repository!  🖥️
 
 This repository contains hands-on Java programs covering **Core Java fundamentals** and **Object-Oriented Programming (OOP) concepts**. It’s designed to help learners, students, and job seekers **practice, understand, and showcase Java skills** effectively.
 
